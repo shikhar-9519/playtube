@@ -62,7 +62,7 @@ const LeftNav = () => {
                 icon={item.icon}
                 action={() => {
                   clickHandler(item.name, item.type);
-                  navigate("/");
+                  navigate("/playtube");
                 }}
                 className={`${
                   selectedCategory === item.name

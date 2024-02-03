@@ -23,7 +23,7 @@ const appRouter = createBrowserRouter([
     element: <AppLayout />,
     errorElement: <ErrorComponent />,
     children: [
-      { path: "/", element: <Feed /> },
+      { path: "/playtube", element: <Feed /> },
       { path: "/searchResult/:searchQuery", element: <SearchResult /> },
       { path: "/video/:id", element: <VideoDetails /> },
     ],

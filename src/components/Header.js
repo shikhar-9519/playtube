@@ -70,7 +70,7 @@ const Header = () => {
             )}
           </div>
         )}
-        <Link to="/" className="flex h-5 items-center">
+        <Link to="/playtube" className="flex h-5 items-center">
           <img
             src={playTube}
             alt="PlayTube"
