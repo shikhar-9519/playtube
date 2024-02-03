@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/playtube/static/css/main.06a11721.css",
-    "main.js": "/playtube/static/js/main.f4117843.js",
+    "main.js": "/playtube/static/js/main.0307cfa2.js",
     "static/media/logo-no-background.png": "/playtube/static/media/logo-no-background.9631519e713a529b7437.png",
     "index.html": "/playtube/index.html",
     "main.06a11721.css.map": "/playtube/static/css/main.06a11721.css.map",
-    "main.f4117843.js.map": "/playtube/static/js/main.f4117843.js.map"
+    "main.0307cfa2.js.map": "/playtube/static/js/main.0307cfa2.js.map"
   },
   "entrypoints": [
     "static/css/main.06a11721.css",
-    "static/js/main.f4117843.js"
+    "static/js/main.0307cfa2.js"
   ]
 }
